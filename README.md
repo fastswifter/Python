@@ -3,15 +3,15 @@
 ## Futtatás
 
 1. fastapi uvicorn telepítés:
-'''
+```
 pip install fastapi uvicorn
-'''
+```
 
 
 2. Szerver indítás:
-'''
+```
 uvicorn main:app --reload
-'''
+```
 
 
 3. Teszt:
